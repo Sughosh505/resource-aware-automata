@@ -1,0 +1,15 @@
+# Data Processing & Math
+pandas
+numpy
+scipy
+
+# Machine Learning
+xgboost
+scikit-learn
+
+# Neural Networks
+torch
+torchvision
+
+# Energy Profiling (Linux only, but included for the environment)
+pyrapl
